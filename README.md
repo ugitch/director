@@ -24,7 +24,7 @@ etc).
 # Usage
 
 * [API Documentation](#api-documentation)
-* [Frequently Asked Questions](#faq)
+* [Frequently Asked Questions](#frequently-asked-questions)
 
 ## Building client-side script
 
